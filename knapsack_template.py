@@ -81,3 +81,6 @@ for k in range(40):  # 40 restarts
         bestState = state
 
 print('Best state found:', bestState, 'with total value:', bestValue)
+
+
+#CANVAS LINK: https://github.com/Abernard13/Chapter4Assignment

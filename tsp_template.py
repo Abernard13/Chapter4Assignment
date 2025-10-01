@@ -52,3 +52,7 @@ for k in range(20):  # 20 restarts
         best_state = state
 
 print("Best route:", best_state, "with distance:", best_dist)
+
+
+
+# CANVAS LINK: https://github.com/Abernard13/Chapter4Assignment
